@@ -1,6 +1,4 @@
-package org.modernjavainaction;
-
-import org.modernjavainaction.ch02.Color;
+package org.modernjavainaction.ch02;
 
 public class Apple {
 

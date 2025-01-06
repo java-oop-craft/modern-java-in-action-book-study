@@ -1,7 +1,5 @@
 package org.modernjavainaction.ch02;
 
-import org.modernjavainaction.Apple;
-
 import java.util.ArrayList;
 import java.util.List;
 
